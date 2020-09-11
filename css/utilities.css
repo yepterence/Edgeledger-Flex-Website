@@ -56,8 +56,7 @@
 }
 
 /* Flex columns */
-.flex-columns .flex-reverse .row{
-    display: flex;
+.flex-columns.flex-reverse .row{
     flex-direction: row-reverse;
 }
 
