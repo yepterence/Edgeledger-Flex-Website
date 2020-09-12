@@ -75,6 +75,14 @@ img {
     font-weight: 400;
 }
 
+.navbar .logo .logo-btn {
+    padding: 0px;
+}
+
+.navbar .logo a {
+    border-bottom: none;
+}
+
 /* Header */
 .hero {
     background: url('../img/home/showcase.jpg') no-repeat center center/cover;
