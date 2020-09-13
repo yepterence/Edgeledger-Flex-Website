@@ -93,6 +93,11 @@ img {
 
 }
 
+.hero.blog {
+    background: url('/img/home/blog.jpg') no-repeat center center/cover;
+    height: 30vh;
+}
+
 .hero .content {
     display: flex;
     flex-direction: column;
